@@ -1,0 +1,38 @@
+div{
+    position: absolute;
+    top: 10%;
+    left: 30%;
+    border: 10px;
+    border-radius: 25px;
+    background-image: url(./.vscode/images/banner_img1.jpg);
+    width: 500px;
+    height: 270px;
+}
+
+img{
+    border: 5px solid #7107eb;
+    border-radius: 50%;
+    position: relative;
+    top: 10px;
+    left: 180px;
+    width: 130px;
+
+}
+
+h1{
+    text-align: center;
+    color: hsl(0, 96%, 48%);
+    font-size: 25px;
+}
+
+h3{
+    text-align: center;
+    color: hsla(261, 94%, 46%, 0.945);
+    font-size: 22px;
+}
+
+p{
+    text-align: center;
+    color: hwb(264 93% 3% / 0.945);
+    font-size: 18px;
+}
